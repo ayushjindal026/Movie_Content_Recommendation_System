@@ -1,3 +1,5 @@
+**Movie Recommendation System** is a machine-learning–based application that suggests movies to users based on similarity between films. The system works by analyzing movie features such as genres, overview/description, ratings, and popularity, converting this information into numerical vectors using **text vectorization techniques** (like TF-IDF or Count Vectorizer). It then computes **cosine similarity** to find movies that are most similar to a selected title and recommends them accordingly. The project is implemented in **Python** using libraries such as **pandas** and **NumPy** for data processing, **scikit-learn** for vectorization and similarity computation, and **Streamlit** to provide an interactive web interface where users can easily get movie recommendations.
+
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
