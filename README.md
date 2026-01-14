@@ -1,6 +1,8 @@
 
 # 🎬 Movie Recommendation System using Machine Learning
 
+<img width="1067" height="759" alt="Screenshot 2026-01-14 192328" src="https://github.com/user-attachments/assets/78e8738c-b940-442e-88ca-a362deecb68a" />
+
 ## 📌 Project Overview
 
 The **Movie Recommendation System** is a **content-based machine learning application** that recommends movies based on **similarity between films**.
